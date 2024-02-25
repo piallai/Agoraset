@@ -1,0 +1,58 @@
+// Created by iWeb 3.0.4 local-build-20130704
+
+function writeMovie1()
+{detectBrowser();if(windowsInternetExplorer)
+{document.write('<object id="id3" classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="300" height="216" style="height: 216px; left: 208px; position: absolute; top: 127px; width: 300px; z-index: 1; "><param name="src" value="Media/tracking_pedestrian_05_view_020_270.webm" /><param name="controller" value="true" /><param name="autoplay" value="false" /><param name="scale" value="tofit" /><param name="volume" value="100" /><param name="loop" value="false" /></object>');}
+else if(isiPhone)
+{document.write('<object id="id3" type="video/quicktime" width="300" height="216" style="height: 216px; left: 208px; position: absolute; top: 127px; width: 300px; z-index: 1; "><param name="src" value="Tracking_on_scene_08_files/tracking_pedestrian_05_view_020_270.jpg"/><param name="target" value="myself"/><param name="href" value="../Media/tracking_pedestrian_05_view_020_270.webm"/><param name="controller" value="true"/><param name="scale" value="tofit"/></object>');}
+else
+{document.write('<object id="id3" type="video/quicktime" width="300" height="216" data="Media/tracking_pedestrian_05_view_020_270.webm" style="height: 216px; left: 208px; position: absolute; top: 127px; width: 300px; z-index: 1; "><param name="src" value="Media/tracking_pedestrian_05_view_020_270.webm"/><param name="controller" value="true"/><param name="autoplay" value="false"/><param name="scale" value="tofit"/><param name="volume" value="100"/><param name="loop" value="false"/></object>');}}
+function writeMovie2()
+{detectBrowser();if(windowsInternetExplorer)
+{document.write('<object id="id4" classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="300" height="216" style="height: 216px; left: 208px; position: absolute; top: 367px; width: 300px; z-index: 1; "><param name="src" value="Media/tracking_pedestrian_05_view_030_270.webm" /><param name="controller" value="true" /><param name="autoplay" value="false" /><param name="scale" value="tofit" /><param name="volume" value="100" /><param name="loop" value="false" /></object>');}
+else if(isiPhone)
+{document.write('<object id="id4" type="video/quicktime" width="300" height="216" style="height: 216px; left: 208px; position: absolute; top: 367px; width: 300px; z-index: 1; "><param name="src" value="Tracking_on_scene_08_files/tracking_pedestrian_05_view_030_270.jpg"/><param name="target" value="myself"/><param name="href" value="../Media/tracking_pedestrian_05_view_030_270.webm"/><param name="controller" value="true"/><param name="scale" value="tofit"/></object>');}
+else
+{document.write('<object id="id4" type="video/quicktime" width="300" height="216" data="Media/tracking_pedestrian_05_view_030_270.webm" style="height: 216px; left: 208px; position: absolute; top: 367px; width: 300px; z-index: 1; "><param name="src" value="Media/tracking_pedestrian_05_view_030_270.webm"/><param name="controller" value="true"/><param name="autoplay" value="false"/><param name="scale" value="tofit"/><param name="volume" value="100"/><param name="loop" value="false"/></object>');}}
+function writeMovie3()
+{detectBrowser();if(windowsInternetExplorer)
+{document.write('<object id="id5" classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="300" height="216" style="height: 216px; left: 208px; position: absolute; top: 614px; width: 300px; z-index: 1; "><param name="src" value="Media/tracking_pedestrian_05_view_040_270.webm" /><param name="controller" value="true" /><param name="autoplay" value="false" /><param name="scale" value="tofit" /><param name="volume" value="100" /><param name="loop" value="false" /></object>');}
+else if(isiPhone)
+{document.write('<object id="id5" type="video/quicktime" width="300" height="216" style="height: 216px; left: 208px; position: absolute; top: 614px; width: 300px; z-index: 1; "><param name="src" value="Tracking_on_scene_08_files/tracking_pedestrian_05_view_040_270.jpg"/><param name="target" value="myself"/><param name="href" value="../Media/tracking_pedestrian_05_view_040_270.webm"/><param name="controller" value="true"/><param name="scale" value="tofit"/></object>');}
+else
+{document.write('<object id="id5" type="video/quicktime" width="300" height="216" data="Media/tracking_pedestrian_05_view_040_270.webm" style="height: 216px; left: 208px; position: absolute; top: 614px; width: 300px; z-index: 1; "><param name="src" value="Media/tracking_pedestrian_05_view_040_270.webm"/><param name="controller" value="true"/><param name="autoplay" value="false"/><param name="scale" value="tofit"/><param name="volume" value="100"/><param name="loop" value="false"/></object>');}}
+function writeMovie4()
+{detectBrowser();if(windowsInternetExplorer)
+{document.write('<object id="id6" classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="300" height="216" style="height: 216px; left: 208px; position: absolute; top: 860px; width: 300px; z-index: 1; "><param name="src" value="Media/tracking_pedestrian_05_view_050_270.webm" /><param name="controller" value="true" /><param name="autoplay" value="false" /><param name="scale" value="tofit" /><param name="volume" value="100" /><param name="loop" value="false" /></object>');}
+else if(isiPhone)
+{document.write('<object id="id6" type="video/quicktime" width="300" height="216" style="height: 216px; left: 208px; position: absolute; top: 860px; width: 300px; z-index: 1; "><param name="src" value="Tracking_on_scene_08_files/tracking_pedestrian_05_view_050_270.jpg"/><param name="target" value="myself"/><param name="href" value="../Media/tracking_pedestrian_05_view_050_270.webm"/><param name="controller" value="true"/><param name="scale" value="tofit"/></object>');}
+else
+{document.write('<object id="id6" type="video/quicktime" width="300" height="216" data="Media/tracking_pedestrian_05_view_050_270.webm" style="height: 216px; left: 208px; position: absolute; top: 860px; width: 300px; z-index: 1; "><param name="src" value="Media/tracking_pedestrian_05_view_050_270.webm"/><param name="controller" value="true"/><param name="autoplay" value="false"/><param name="scale" value="tofit"/><param name="volume" value="100"/><param name="loop" value="false"/></object>');}}
+function writeMovie5()
+{detectBrowser();if(windowsInternetExplorer)
+{document.write('<object id="id7" classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="300" height="216" style="height: 216px; left: 208px; position: absolute; top: 1118px; width: 300px; z-index: 1; "><param name="src" value="Media/tracking_pedestrian_05_view_060_270.webm" /><param name="controller" value="true" /><param name="autoplay" value="false" /><param name="scale" value="tofit" /><param name="volume" value="100" /><param name="loop" value="false" /></object>');}
+else if(isiPhone)
+{document.write('<object id="id7" type="video/quicktime" width="300" height="216" style="height: 216px; left: 208px; position: absolute; top: 1118px; width: 300px; z-index: 1; "><param name="src" value="Tracking_on_scene_08_files/tracking_pedestrian_05_view_060_270.jpg"/><param name="target" value="myself"/><param name="href" value="../Media/tracking_pedestrian_05_view_060_270.webm"/><param name="controller" value="true"/><param name="scale" value="tofit"/></object>');}
+else
+{document.write('<object id="id7" type="video/quicktime" width="300" height="216" data="Media/tracking_pedestrian_05_view_060_270.webm" style="height: 216px; left: 208px; position: absolute; top: 1118px; width: 300px; z-index: 1; "><param name="src" value="Media/tracking_pedestrian_05_view_060_270.webm"/><param name="controller" value="true"/><param name="autoplay" value="false"/><param name="scale" value="tofit"/><param name="volume" value="100"/><param name="loop" value="false"/></object>');}}
+function writeMovie6()
+{detectBrowser();if(windowsInternetExplorer)
+{document.write('<object id="id8" classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="300" height="216" style="height: 216px; left: 208px; position: absolute; top: 1375px; width: 300px; z-index: 1; "><param name="src" value="Media/tracking_pedestrian_05_view_070_270.webm" /><param name="controller" value="true" /><param name="autoplay" value="false" /><param name="scale" value="tofit" /><param name="volume" value="100" /><param name="loop" value="false" /></object>');}
+else if(isiPhone)
+{document.write('<object id="id8" type="video/quicktime" width="300" height="216" style="height: 216px; left: 208px; position: absolute; top: 1375px; width: 300px; z-index: 1; "><param name="src" value="Tracking_on_scene_08_files/tracking_pedestrian_05_view_070_270.jpg"/><param name="target" value="myself"/><param name="href" value="../Media/tracking_pedestrian_05_view_070_270.webm"/><param name="controller" value="true"/><param name="scale" value="tofit"/></object>');}
+else
+{document.write('<object id="id8" type="video/quicktime" width="300" height="216" data="Media/tracking_pedestrian_05_view_070_270.webm" style="height: 216px; left: 208px; position: absolute; top: 1375px; width: 300px; z-index: 1; "><param name="src" value="Media/tracking_pedestrian_05_view_070_270.webm"/><param name="controller" value="true"/><param name="autoplay" value="false"/><param name="scale" value="tofit"/><param name="volume" value="100"/><param name="loop" value="false"/></object>');}}
+function writeMovie7()
+{detectBrowser();if(windowsInternetExplorer)
+{document.write('<object id="id9" classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" width="300" height="216" style="height: 216px; left: 208px; position: absolute; top: 1661px; width: 300px; z-index: 1; "><param name="src" value="Media/tracking_pedestrian_05_view_080_270.webm" /><param name="controller" value="true" /><param name="autoplay" value="false" /><param name="scale" value="tofit" /><param name="volume" value="100" /><param name="loop" value="false" /></object>');}
+else if(isiPhone)
+{document.write('<object id="id9" type="video/quicktime" width="300" height="216" style="height: 216px; left: 208px; position: absolute; top: 1661px; width: 300px; z-index: 1; "><param name="src" value="Tracking_on_scene_08_files/tracking_pedestrian_05_view_080_270.jpg"/><param name="target" value="myself"/><param name="href" value="../Media/tracking_pedestrian_05_view_080_270.webm"/><param name="controller" value="true"/><param name="scale" value="tofit"/></object>');}
+else
+{document.write('<object id="id9" type="video/quicktime" width="300" height="216" data="Media/tracking_pedestrian_05_view_080_270.webm" style="height: 216px; left: 208px; position: absolute; top: 1661px; width: 300px; z-index: 1; "><param name="src" value="Media/tracking_pedestrian_05_view_080_270.webm"/><param name="controller" value="true"/><param name="autoplay" value="false"/><param name="scale" value="tofit"/><param name="volume" value="100"/><param name="loop" value="false"/></object>');}}
+setTransparentGifURL('Media/transparent.gif');function hostedOnDM()
+{return false;}
+function onPageLoad()
+{loadMozillaCSS('Tracking_on_scene_08_files/Tracking_on_scene_08Moz.css')
+adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');adjustLineHeightIfTooBig('id2');adjustFontSizeIfTooBig('id2');Widget.onload();performPostEffectsFixups()}
+function onPageUnload()
+{Widget.onunload();}
